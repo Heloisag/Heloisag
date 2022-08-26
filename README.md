@@ -33,7 +33,7 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/heloisa-goulart-vicencio-b20497223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
- <img align="right" alt="Helo-pic" height="110" style="border-radius:50px;" src="https://i.picasion.com/pic92/b2710a3ced4bb6eeed1d7d740c349742.gif">
+ <img align="right" alt="Helo-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/b2710a3ced4bb6eeed1d7d740c349742.gif">
 </div>
   
   
