@@ -1,5 +1,4 @@
 ### Hi there! I'm Heloisag or HELLO 😎👋🤓
-
 ##
 
   - 🔭 I’m currently working with front and back-end
