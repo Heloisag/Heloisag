@@ -10,13 +10,12 @@
 - ⚡ Fun fact: I love music and I have a band in my city, that I play drums! I love pizza 🍕 and hot dogs🌭.                                                                                               
 - 🎬 I love to watch series and movies, my favorite movie is Star wars and Harry potter.
 
-##
+
 
 <div align="center">
   <a href="https://github.com/Heloisag"> <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Heloisag&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heloisag&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
-##
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Helo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
