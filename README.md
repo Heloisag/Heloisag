@@ -22,10 +22,10 @@
   <img align="center" alt="Helo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Helo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Helo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </a><img align="right" alt="Helo-pic" height="150" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Helo-Python" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=77&color=currentColor">    
   </a><img align="right" alt="Helo-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/b2710a3ced4bb6eeed1d7d740c349742.gif">
-   </a><img align="right" alt="Helo-pic" height="150" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  </div>
+   </div>
             
           
   
