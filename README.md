@@ -3,7 +3,7 @@
 
   - 🔭 I’m currently working with front and back-end
   
-- 🌱 I’m currently learning C programming and PYTHON
+- 🌱 I’m currently learning JAVA programming and PYTHON
   
 - 😄 Pronouns: She/Her
   
