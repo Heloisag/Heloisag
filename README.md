@@ -8,7 +8,7 @@
 - 😄 Pronouns: She/Her
   
 - ⚡ Fun fact: I love music and I have a band in my city, that I play drums! I love pizza 🍕 and hot dogs🌭.                                                                                               
-- 🎬 I love to watch series and movies, my favorite movie is Star wars and Harry potter.
+- 🎬 I love to watch series and movies, my favorite movies are Star wars and Harry potter.
 
 
 
